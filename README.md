@@ -1,4 +1,4 @@
-# Lyric Website (歌词网)
+# Lyric Website
 Create a simple lyric website based on Flask.
 
 创建一个基于Flask 框架的简易歌词网站。
